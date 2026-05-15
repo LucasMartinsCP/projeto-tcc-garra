@@ -1,0 +1,25 @@
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# React Native
+android/app/build/
+android/.gradle/
+ios/build/
+ios/Pods/
+
+# Expo
+.expo/
+
+# ESP32 / PlatformIO
+.pio/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis
+.env

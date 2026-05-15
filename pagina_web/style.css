@@ -1,0 +1,53 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #00e0ff;
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: inline-block;
+  margin: 20px;
+}
+
+.row {
+  margin: 5px 0;
+}
+
+button {
+  background-color: #00bcd4;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: 5px;
+  cursor: pointer;
+  transition: transform 0.1s, background-color 0.2s;
+}
+
+button:hover {
+  background-color: #0097a7;
+  transform: scale(1.05);
+}
+
+.vertical {
+  margin: 20px 0;
+}
+
+.garra {
+  margin-top: 20px;
+}
+
+#status {
+  margin-top: 20px;
+  color: #0f0;
+  font-weight: bold;
+}
