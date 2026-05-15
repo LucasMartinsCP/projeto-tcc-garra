@@ -104,7 +104,7 @@ Os testes apresentaram:
 
 O vídeo a seguir é uma demonstração do dispositivo (ainda não completo) funcionando em ambiente de teste.
 
-[![Vídeo Demonstração](https://img.youtube.com/vi/watch?v=ewuswKGMqTA/0.jpg)](https://youtu.be/ewuswKGMqTA)
+[![Vídeo Demonstração](https://img.youtube.com/vi/ewuswKGMqTA/0.jpg)](https://youtu.be/ewuswKGMqTA)
 
 ---
 
